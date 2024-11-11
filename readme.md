@@ -1,6 +1,6 @@
 ## Demonstration
 Watch the video below to see a full demonstration of the LSA Search Engine in action:
-[![Hypothesis Testing and Confidence Intervals in Linear Regression](https://img.youtube.com/vi/7mN3EiGxM-o/0.jpg)](https://youtu.be/7mN3EiGxM-o)
+[![Hypothesis Testing and Confidence Intervals in Linear Regression](https://img.youtube.com/vi/u8QXvL1mkd8-o/0.jpg)](https://youtu.be/u8QXvL1mkd8)
 
 # CS506 Assignment 7  
 ## Hypothesis Testing and Confidence Intervals in Linear Regression
